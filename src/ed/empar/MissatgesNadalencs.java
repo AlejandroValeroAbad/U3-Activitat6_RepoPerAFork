@@ -165,7 +165,12 @@ public class MissatgesNadalencs {
 	}
 
 	private static void AlumneFila3PC4() {
-
+		System.out.println("====================================");
+		System.out.println("Hola, soc ALEJANDRO VALERO.");
+		System.out.println("Us desitge un feliç nadal a tots.");
+		System.out.println("Feliç any nou a tots i que us ho passeu bé.");
+		System.out.println("====================================");
+		System.out.println();
 	}
 
 	private static void AlumneFila3PC5() {
